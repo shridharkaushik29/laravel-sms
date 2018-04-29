@@ -1,0 +1,17 @@
+{
+    "name": "shridharkaushik29/laravel-sms",
+    "description": "Sending SMS in laravel gone easy.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shridhar Sharma",
+            "email": "shridharkaushik29@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "Shridhar\\Sms\\": "src/"  
+    },
+    "require": {}
+}
